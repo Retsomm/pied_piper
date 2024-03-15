@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pied_piper/static/js/main.80c25b37.js",
+    "index.html": "/pied_piper/index.html",
+    "main.80c25b37.js.map": "/pied_piper/static/js/main.80c25b37.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.80c25b37.js"
+  ]
+}
