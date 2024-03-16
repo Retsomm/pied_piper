@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pied_piper/static/js/main.68f5bdaf.js",
+    "main.js": "/pied_piper/static/js/main.c8f80fe1.js",
     "index.html": "/pied_piper/index.html",
-    "main.68f5bdaf.js.map": "/pied_piper/static/js/main.68f5bdaf.js.map"
+    "main.c8f80fe1.js.map": "/pied_piper/static/js/main.c8f80fe1.js.map"
   },
   "entrypoints": [
-    "static/js/main.68f5bdaf.js"
+    "static/js/main.c8f80fe1.js"
   ]
 }
